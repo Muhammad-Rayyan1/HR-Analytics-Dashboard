@@ -69,6 +69,8 @@ To view and interact with the dashboard, you will need:
 3. Explore the various tabs and visualizations to gain insights from the data.
 
 
-## Contributing
+<div align="center">
 
-Contributions are welcome! Please read the [CONTRIBUTING](CONTRIBUTING.md) file for guidelines on how to get involved.
+**THANK YOU**
+
+</div>
